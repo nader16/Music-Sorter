@@ -1,0 +1,27 @@
+C:\Users\lenovo\Desktop\FO_Code\FO_Code\bin\Debug\FO_Code.exe.config
+C:\Users\lenovo\Desktop\FO_Code\FO_Code\bin\Debug\FO_Code.exe
+C:\Users\lenovo\Desktop\FO_Code\FO_Code\bin\Debug\FO_Code.pdb
+C:\Users\lenovo\Desktop\FO_Code\FO_Code\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\lenovo\Desktop\FO_Code\FO_Code\bin\Debug\taglib-sharp.dll
+C:\Users\lenovo\Desktop\FO_Code\FO_Code\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\lenovo\Desktop\FO_Code\FO_Code\obj\Debug\FO_Code.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\FO_Code\FO_Code\obj\Debug\FO_Code.Form1.resources
+C:\Users\lenovo\Desktop\FO_Code\FO_Code\obj\Debug\FO_Code.Properties.Resources.resources
+C:\Users\lenovo\Desktop\FO_Code\FO_Code\obj\Debug\FO_Code.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\FO_Code\FO_Code\obj\Debug\FO_Code.exe
+C:\Users\lenovo\Desktop\FO_Code\FO_Code\obj\Debug\FO_Code.pdb
+F:\Term 2\Files Organization\Projects\FO_Code\FO_Code\bin\Debug\FO_Code.exe.config
+F:\Term 2\Files Organization\Projects\FO_Code\FO_Code\obj\Debug\FO_Code.exe
+F:\Term 2\Files Organization\Projects\FO_Code\FO_Code\obj\Debug\FO_Code.pdb
+F:\Term 2\Files Organization\Projects\FO_Code\FO_Code\bin\Debug\FO_Code.exe
+F:\Term 2\Files Organization\Projects\FO_Code\FO_Code\bin\Debug\FO_Code.pdb
+F:\Term 2\Files Organization\Projects\FO_Code\FO_Code\bin\Debug\policy.2.0.taglib-sharp.dll
+F:\Term 2\Files Organization\Projects\FO_Code\FO_Code\bin\Debug\taglib-sharp.dll
+F:\Term 2\Files Organization\Projects\FO_Code\FO_Code\bin\Debug\policy.2.0.taglib-sharp.config
+F:\Term 2\Files Organization\Projects\FO_Code\FO_Code\obj\Debug\FO_Code.csprojResolveAssemblyReference.cache
+F:\Term 2\Files Organization\Projects\FO_Code\FO_Code\obj\Debug\FO_Code.Form1.resources
+F:\Term 2\Files Organization\Projects\FO_Code\FO_Code\obj\Debug\FO_Code.Properties.Resources.resources
+F:\Term 2\Files Organization\Projects\FO_Code\FO_Code\obj\Debug\FO_Code.csproj.GenerateResource.Cache
+D:\[fcis] archive\Year 2\Term 2\Files Organization\Projects\FO_Code\FO_Code\bin\Debug\FO_Code.exe.config
+D:\[fcis] archive\Year 2\Term 2\Files Organization\Projects\FO_Code\FO_Code\obj\Debug\FO_Code.exe
+D:\[fcis] archive\Year 2\Term 2\Files Organization\Projects\FO_Code\FO_Code\obj\Debug\FO_Code.pdb
